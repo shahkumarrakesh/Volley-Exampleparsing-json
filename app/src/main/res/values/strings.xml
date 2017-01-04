@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonApp</string>
+    <string name="title">Title</string>
+    <string name="subreddit">subreddit</string>
+    <string name="author">AuthoR</string>
+    <string name="my_recycler_list">My recycler list</string>
+</resources>
